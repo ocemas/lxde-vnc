@@ -1,3 +1,3 @@
 # lxde-vnc
-* Free XRDP Browser (Ubuntu)
+* Free XRDP Browser (Okteto Cloud)
 * How to use-> https://aank.me/Youtube
