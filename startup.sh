@@ -1,4 +1,3 @@
 #!/bin/bash
 # Free XRDP Aank is ME
-service ssh start
-service nginx start
+apt-get update && apt clean -y
